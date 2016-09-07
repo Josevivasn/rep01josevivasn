@@ -2,6 +2,7 @@
 <head>
 <title> Minha página </title>
 <body> 
-<b> José Vivas</b>
+<h1> <b> José Vivas</b> </>
+<h2> infnet<h2>
 </body>
 </html>
